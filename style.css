@@ -32,7 +32,7 @@
     height: 500px;
     margin: auto;
     margin-top: 70px;
-    background-image: url('mon_couple.png');
+    background-image: url('picture.jpg');
 }
 
 .container1_1
@@ -100,7 +100,7 @@
 
 p
 {
-    color: black;
+    color: rgb(81, 112, 158);
     font-size:50px;
     font-weight: bold;
     margin: 230px 50px;
@@ -147,6 +147,6 @@ p
     font-size: 36px;
     font-weight: bold;
     text-align: center;
-    color: blue;
+    color: rgb(238, 225, 149);
   }
   
