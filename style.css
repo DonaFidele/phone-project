@@ -1,10 +1,8 @@
 .container
 {
     display: flex;
-   /* border: 1px solid black;*/
     width: 420px;
     height: 660px;
-    /*border-radius: 15px;*/
 }
 
 .container1
@@ -18,10 +16,8 @@
 
 .container2
 {
-    /*border: 2px solid rgb(212, 212, 25);*/
     width: 10px;
     height: 660px;
-    /*border-radius: 15px;*/
 }
 
 #square
@@ -38,7 +34,6 @@
 .container1_1
 {
     position: absolute;
-    /*border: 2px solid rgb(150, 14, 105);*/
     width: 150px;
     height: 10px;
     margin-top: 35px;
@@ -76,35 +71,30 @@
 
 .bouttons
 {
-    /*position: relative;*/
     border: 2px solid rgb(7, 7, 7);
-    width: 8px;
-    height: 70px;
-    border-radius: 15px;
+    width: 12px;
+    height: 60px;
+    border-radius: 60px; 
+    margin-left: -7px;
     background-color: rgb(9, 26, 53);
-    /*margin-right: 205px;*/
 }
 
 .container2
 {
-    /*position: absolute;*/
     display: flex;
     flex-direction: column;
     width:10px ;
-    height: 160px;
-    /*border: 1px solid rgb(194, 41, 41);*/
+    height: 130px;
     justify-content: space-between;
     margin-top: 140px;
-    /*padding-right: 155px;*/
 }
 
 p
 {
-    color: rgb(81, 112, 158);
+    color: white;
     font-size:50px;
     font-weight: bold;
     margin: 230px 50px;
-    /*font-family:'Times New Roman', Times, serif;*/
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
 }
@@ -127,7 +117,6 @@ p
 
 .container1_2
 {
-    /*border: 1px solid white;*/
     display: flex;
     width: 300px;
     height: 40px;
@@ -143,10 +132,11 @@ p
     margin-top: -10px;
 }
 
-#clock {
+#clock 
+{
     font-size: 36px;
     font-weight: bold;
     text-align: center;
     color: rgb(238, 225, 149);
-  }
+}
   
